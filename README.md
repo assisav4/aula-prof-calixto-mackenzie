@@ -4,3 +4,6 @@
 - Fiz minha conta no git hub;
 - criei um projeto 
 - atualizei o readme.md com o CODE SPACE
+*****************
+agora vou fazer o commit e push juntos
+--> clicar em 'confirmacao' (na seta do lado direito); confirmar e sincronizar
